@@ -565,3 +565,135 @@
 2026-02-18 06:47:08> DeltaPackageBuilder: \lib\net45\zh-Hans\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
 2026-02-18 06:47:08> DeltaPackageBuilder: \lib\net45\zh-Hant\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
 2026-02-18 06:47:08> Program: Building embedded zip file for Setup.exe
+2026-02-18 06:54:53> Program: Starting Squirrel Updater: --releasify C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\GeneratedNugets\TsIstanbul.1.0.2.nupkg --releaseDir=C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases
+2026-02-18 06:54:53> Program: Bootstrapper EXE found at:C:\TsIstanbul\TsIstanbulWin\TsIstanbulWin\MesoWin\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2026-02-18 06:54:53> Program: Creating release package: C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul.1.0.2.nupkg
+2026-02-18 06:54:54> ReleasePackage: Creating release package: C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul.1.0.2.nupkg => C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul-1.0.2-full.nupkg
+2026-02-18 06:54:55> ReleasePackage: Extracting dependent packages: []
+2026-02-18 06:54:55> ReleasePackage: Removing unnecessary data
+2026-02-18 06:55:00> DeltaPackageBuilder: Extracting C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul-1.0.1-full.nupkg and C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul-1.0.2-full.nupkg into C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempe
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\BarcodeStandard.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\EnvDTE.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\MessagePack.Annotations.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\MessagePack.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\Microsoft.Bcl.AsyncInterfaces.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\Microsoft.mshtml.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\Microsoft.NET.StringTools.dll hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\Microsoft.NET.StringTools.pdb hasn't changed, writing dummy file
+2026-02-18 06:55:02> DeltaPackageBuilder: \lib\net45\Microsoft.ReportViewer.Common.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.ReportViewer.DataVisualization.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.ReportViewer.Design.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.ReportViewer.ProcessingObjectModel.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.ReportViewer.WinForms.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.SqlServer.Types.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.Web.WebView2.Core.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.Web.WebView2.WinForms.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Microsoft.Web.WebView2.Wpf.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Newtonsoft.Json.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.pdb hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\SharpCompress.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Sistemeka.Certificate.bat hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Sistemeka.Meso.Icon.ico hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Sistemeka.Meso.Setting.config hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Sistemeka.Signature.pfx hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Spire.License.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Spire.Pdf.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Spire.PdfViewer.Forms.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Splat.pdb hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\Squirrel.pdb hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\stdole.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Buffers.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Collections.Immutable.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Drawing.Common.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Memory.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Numerics.Vectors.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Runtime.CompilerServices.Unsafe.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Text.Encodings.Web.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Text.Json.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.Threading.Tasks.Extensions.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: \lib\net45\System.ValueTuple.dll hasn't changed, writing dummy file
+2026-02-18 06:55:03> DeltaPackageBuilder: Delta patching C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempd\lib\net45\TsIstanbul.exe => C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempe\lib\net45\TsIstanbul.exe
+2026-02-18 06:55:13> DeltaPackageBuilder: \lib\net45\TsIstanbul.exe.config hasn't changed, writing dummy file
+2026-02-18 06:55:13> DeltaPackageBuilder: Delta patching C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempd\lib\net45\TsIstanbul.pdb => C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempe\lib\net45\TsIstanbul.pdb
+2026-02-18 06:55:14> DeltaPackageBuilder: We really couldn't create a delta for TsIstanbul.pdb: System.DivideByZeroException: Sıfırla bölme girişiminde bulunuldu.
+   konum: Squirrel.Bsdiff.BinaryPatchUtility.Create(Byte[] oldData, Byte[] newData, Stream output)
+   konum: Squirrel.DeltaPackageBuilder.createDeltaForSingleFile(FileInfo targetFile, DirectoryInfo workingDirectory, Dictionary`2 baseFileListing)
+2026-02-18 06:55:14> DeltaPackageBuilder: Delta patching C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempd\lib\net45\TsIstanbul_ExecutionStub.exe => C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempe\lib\net45\TsIstanbul_ExecutionStub.exe
+2026-02-18 06:55:14> DeltaPackageBuilder: \lib\net45\ZstdSharp.dll hasn't changed, writing dummy file
+2026-02-18 06:55:14> DeltaPackageBuilder: \lib\net45\de\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:14> DeltaPackageBuilder: \lib\net45\de\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:14> DeltaPackageBuilder: \lib\net45\de\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:14> DeltaPackageBuilder: \lib\net45\de\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:14> DeltaPackageBuilder: \lib\net45\de\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:14> DeltaPackageBuilder: Delta patching C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempd\lib\net45\en-US\TsIstanbul.resources.dll => C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempe\lib\net45\en-US\TsIstanbul.resources.dll
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\es\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\es\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\es\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\es\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\es\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\NEOGREYREGULAR.OTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-BOLD.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-BOLDITALIC.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-EXTRABOLD.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-EXTRABOLDITALIC.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-ITALIC.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-LIGHT.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-LIGHTITALIC.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-REGULAR.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-SEMIBOLD.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\Fonts\OPENSANS-SEMIBOLDITALIC.TTF hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\fr\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\fr\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\fr\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\fr\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\fr\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\it\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\it\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\it\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\it\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\it\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ja\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ja\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ja\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ja\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ja\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ko\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ko\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ko\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ko\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ko\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\pt\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\pt\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\pt\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\pt\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\pt\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ru\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ru\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ru\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ru\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\ru\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\runtimes\win-x86\native\WebView2Loader.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: Delta patching C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempd\lib\net45\tr-TR\TsIstanbul.resources.dll => C:\Users\Volkan Balcı\AppData\Local\SquirrelTemp\tempe\lib\net45\tr-TR\TsIstanbul.resources.dll
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\x64\SqlServerSpatial160.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\x86\SqlServerSpatial160.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHS\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHS\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHT\Microsoft.ReportViewer.Common.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHT\Microsoft.ReportViewer.Design.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-Hans\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> DeltaPackageBuilder: \lib\net45\zh-Hant\Microsoft.SqlServer.Types.resources.dll hasn't changed, writing dummy file
+2026-02-18 06:55:15> Program: Building embedded zip file for Setup.exe
