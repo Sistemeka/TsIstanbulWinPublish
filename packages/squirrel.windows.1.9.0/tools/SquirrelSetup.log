@@ -33,3 +33,10 @@
 2026-02-18 04:51:36> ReleasePackage: Extracting dependent packages: []
 2026-02-18 04:51:36> ReleasePackage: Removing unnecessary data
 2026-02-18 04:51:41> Program: Building embedded zip file for Setup.exe
+2026-02-18 04:58:08> Program: Starting Squirrel Updater: --releasify C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\GeneratedNugets\TsIstanbul.1.0.0.nupkg --releaseDir=C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases
+2026-02-18 04:58:08> Program: Bootstrapper EXE found at:C:\TsIstanbul\TsIstanbulWin\TsIstanbulWin\MesoWin\packages\squirrel.windows.1.9.0\tools\Setup.exe
+2026-02-18 04:58:08> Program: Creating release package: C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul.1.0.0.nupkg
+2026-02-18 04:58:09> ReleasePackage: Creating release package: C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul.1.0.0.nupkg => C:\TsIstanbul\TsIstanbulWin\TsIstanbulWinPublish\Deployment\Releases\TsIstanbul-1.0.0-full.nupkg
+2026-02-18 04:58:11> ReleasePackage: Extracting dependent packages: []
+2026-02-18 04:58:11> ReleasePackage: Removing unnecessary data
+2026-02-18 04:58:16> Program: Building embedded zip file for Setup.exe
